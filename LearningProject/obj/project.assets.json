@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Personal\\LearningProject\\LearningProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\PersonalCode\\C-Learning\\LearningProject\\LearningProject.csproj",
       "projectName": "LearningProject",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Personal\\LearningProject\\LearningProject.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\PersonalCode\\C-Learning\\LearningProject\\LearningProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Personal\\LearningProject\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\PersonalCode\\C-Learning\\LearningProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
