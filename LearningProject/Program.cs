@@ -8,6 +8,16 @@ namespace LearningProject
         {
             SayHello("Vitalie");
             Console.WriteLine(CubeNumber(5));
+            bool isMale = true;
+            bool istall = true;
+
+            if (isMale is false || istall)
+            {
+                SayHello("male");
+            } else
+            {
+                SayHello("not male.");
+            }
             Console.ReadLine();
         }
 
