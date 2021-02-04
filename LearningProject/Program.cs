@@ -6,7 +6,7 @@ namespace LearningProject
     {
         static void Main(string[] args)
         {
-            whileMeth("It's ok", 5);
+            exceptionH(5,0);
             Console.ReadLine();
         }
         static void SayHello(string name)
@@ -78,5 +78,33 @@ namespace LearningProject
 
         }
 
+        static void forLoops(int numb)
+        {
+            for(int i=0; i<=numb; i++)
+            {
+                Console.WriteLine(i);
+            }
+        }
+        static void dArray()
+        {
+            int[,] numberGrid = {
+            { 1,2,3},{ 4,5,6},{ 7,8,9}
+            };
+
+            Console.WriteLine(numberGrid[0,1]);
+        }
+
+        static void exceptionH(int num1, int num2)
+        {
+            try
+            {
+
+                Console.WriteLine(num1 / num2);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
     }
 }
